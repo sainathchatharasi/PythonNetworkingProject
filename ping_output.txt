@@ -1,0 +1,7 @@
+192.168.2.1 link is down
+www.google.com is up 
+www.youtube.com is up 
+www.google.com is up 
+www.facebook.com is up 
+www.amazon.com is up 
+127.0.0.1 is up 
